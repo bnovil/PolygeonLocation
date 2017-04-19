@@ -1,0 +1,26 @@
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.mvn/
+.idea/
+outsourced-log/
+target/
+mvnw
+mvnw.cmd
+.idea/vcs.xml
+PolygonLocation.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/outsourcedproject.ipr
+/outsourcedproject.iws
+.ideaDataSources/
+dataSources/
+outsourcedproject.ids
+.shelf/
+src/main/java/com/business/service/interfaces/coupon/
+src/main/java/com/business/filter/loginFilter/LoginFilter.java
